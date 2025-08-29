@@ -25,7 +25,3 @@ We are a collective of technology enthusiasts and developers with deep expertise
 **Explore Our Solutions**
 
 Discover the potential of our software management tools. Our solutions are designed to help you evaluate over 30 major software products in their full capacity, ideal for testing and technical assessment.
-
-[Explore Our Downloads]
-
-**Note:** Our tools are intended for educational use, for testing and evaluating software in a closed, local environment. We advocate for the legal use of software and encourage users to obtain valid licenses for all commercial use from official vendors.
